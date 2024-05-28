@@ -17,4 +17,3 @@ _I learned how to use reference links_
 
 I learned how to use Markdown and insert images!
 ![_One Piece_](https://assets-prd.ignimgs.com/2024/03/12/top10opmomentsoo-1710280260191.jpg)
-
