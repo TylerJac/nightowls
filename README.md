@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-**Night Owls**
+
+# **Night Owls**
 # Lexi Gilley
 I have learned the differences between rebase and merge between GitHub
 
