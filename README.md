@@ -16,4 +16,4 @@ I learned how to use Markdown and insert images!
 >>>>>>> 3cd1d69792e644d074eea37fee613853cd2cb9bc
 ## Dean Mastria 
 _"This week I've learned to collaborate using github and VSstudio."_
-![Snowy Owl](https://www.allaboutbirds.org/guide/Snowy_Owl/photo-gallery/297366501)
+![Snowy Owl](https://www.allaboutbirds.org/guide/assets/photo/297366501-480px.jpg)
